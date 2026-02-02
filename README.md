@@ -46,9 +46,9 @@ HLT
 
 ### Program:
 ```
-LDA 4200H
+LDA 1000H
 MOV C,A
-LDA 4201H
+LDA 1001H
 CMP C
 JC SWAP
 SWAP:
@@ -74,9 +74,9 @@ HLT
 
 ### Program:
 ```
-LDA 4200H
+LDA 1000H
 MOV C,A
-LDA 4201H
+LDA 1001H
 MOV B,A
 MVI A,00H
 LOOP:ADD C
@@ -89,9 +89,9 @@ HLT
 
 
 ### Output:
-<img width="1503" height="594" alt="image" src="https://github.com/user-attachments/assets/303af633-aafb-4752-919a-465f33e69242" />
-<img width="877" height="607" alt="image" src="https://github.com/user-attachments/assets/aa21b1e0-2430-48c2-b33f-2b78a25b203a" />
-<img width="752" height="605" alt="image" src="https://github.com/user-attachments/assets/137d4ea4-1140-47e2-a047-0ccae9cb99f5" />
+<img width="1421" height="519" alt="image" src="https://github.com/user-attachments/assets/befc0cc3-acb1-44fa-be0f-6a3b4b3774ce" />
+<img width="273" height="425" alt="image" src="https://github.com/user-attachments/assets/a25d7d58-5592-463c-bffd-4dd50b9dee99" />
+<img width="273" height="404" alt="image" src="https://github.com/user-attachments/assets/78b75a40-139c-454a-bd22-dc92c64a3482" />
 
 ### For Division:
 1.	Load the dividend from memory location 4200H into register A.
