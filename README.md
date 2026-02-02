@@ -1,4 +1,4 @@
-# 8-Bit-Arithmetic-Operations-using-8085
+![WhatsApp Image 2026-02-02 at 18 44 22](https://github.com/user-attachments/assets/0eb27f03-cfa1-4029-ae7c-37d508a08d22)# 8-Bit-Arithmetic-Operations-using-8085
 ## Aim:
 To perform 8-bit arithmetic operations such as addition, subtraction, multiplication, and division using the 8085 microprocessor.
 
@@ -33,6 +33,8 @@ HLT
 <img width="288" height="438" alt="image" src="https://github.com/user-attachments/assets/0ec61322-3d48-4feb-bfdb-0d72d05fc293" />
 <img width="273" height="433" alt="image" src="https://github.com/user-attachments/assets/577dcf33-7d2d-4511-823c-ec43407e0545" />
 
+###Verification:
+![WhatsApp Image 2026-02-02 at 17 55 43](https://github.com/user-attachments/assets/ced840fb-bd57-413a-a270-72ba0cd86f5c)
 
 
 
@@ -64,6 +66,9 @@ HLT
 <img width="283" height="438" alt="image" src="https://github.com/user-attachments/assets/2bd59a04-e45a-4fd3-81b7-4f41b0c0ffa7" />
 <img width="293" height="438" alt="image" src="https://github.com/user-attachments/assets/a233f747-6734-4a3b-85ec-1a0e5c311e3d" />
 
+###Verification:
+![WhatsApp Image 2026-02-02 at 18 01 32](https://github.com/user-attachments/assets/56f22adf-0fad-46fc-b590-10f8860410bc)
+
 
 
 ### For Multiplication:
@@ -92,6 +97,10 @@ HLT
 <img width="1421" height="519" alt="image" src="https://github.com/user-attachments/assets/befc0cc3-acb1-44fa-be0f-6a3b4b3774ce" />
 <img width="273" height="425" alt="image" src="https://github.com/user-attachments/assets/a25d7d58-5592-463c-bffd-4dd50b9dee99" />
 <img width="273" height="404" alt="image" src="https://github.com/user-attachments/assets/78b75a40-139c-454a-bd22-dc92c64a3482" />
+
+###Verification:
+![WhatsApp Image 2026-02-02 at 18 44 22](https://github.com/user-attachments/assets/412083a0-c314-47b6-b62b-2ed5c763c470)
+
 
 ### For Division:
 1.	Load the dividend from memory location 4200H into register A.
@@ -127,6 +136,9 @@ HLT
 <img width="1439" height="867" alt="image" src="https://github.com/user-attachments/assets/0cebc40b-3593-48df-b2cc-3d41b0b4a430" />
 <img width="277" height="412" alt="image" src="https://github.com/user-attachments/assets/422db57c-8267-4081-8f7a-75ac9b434486" />
 <img width="277" height="423" alt="image" src="https://github.com/user-attachments/assets/65834d1c-d24b-4aea-8a52-2ecfa3a8a315" />
+
+###Verification:
+![WhatsApp Image 2026-02-02 at 18 48 53](https://github.com/user-attachments/assets/6870b0e3-ff8e-46ce-bbe8-e6981595ef65)
 
 
 
