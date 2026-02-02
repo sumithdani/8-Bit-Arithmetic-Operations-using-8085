@@ -16,9 +16,9 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
    
 ### Program:
 ```
-LDA 4200H
+LDA 1000H
 MOV B,A
-LDA 42001H
+LDA 1001H
 ADD B
 STA 4300H
 JC STORE_CARRY
