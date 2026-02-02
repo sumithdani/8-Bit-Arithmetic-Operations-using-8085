@@ -59,9 +59,9 @@ HLT
 ```
 
 ### Output:
-<img width="870" height="498" alt="image" src="https://github.com/user-attachments/assets/8c6567d7-f006-46d0-8ca3-72c4059d739d" />
-<img width="382" height="555" alt="image" src="https://github.com/user-attachments/assets/d28ce31f-6ac6-4138-9130-655dffe9747d" />
-<img width="385" height="536" alt="image" src="https://github.com/user-attachments/assets/c46f52d7-d518-4db0-87ba-eed796458b88" />
+<img width="1445" height="692" alt="image" src="https://github.com/user-attachments/assets/b014df40-a4b9-4d04-b1bc-b37e2171cb12" />
+<img width="283" height="438" alt="image" src="https://github.com/user-attachments/assets/2bd59a04-e45a-4fd3-81b7-4f41b0c0ffa7" />
+<img width="293" height="438" alt="image" src="https://github.com/user-attachments/assets/a233f747-6734-4a3b-85ec-1a0e5c311e3d" />
 
 
 
