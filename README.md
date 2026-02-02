@@ -1,4 +1,3 @@
-![WhatsApp Image 2026-02-02 at 18 44 22](https://github.com/user-attachments/assets/0eb27f03-cfa1-4029-ae7c-37d508a08d22)# 8-Bit-Arithmetic-Operations-using-8085
 ## Aim:
 To perform 8-bit arithmetic operations such as addition, subtraction, multiplication, and division using the 8085 microprocessor.
 
