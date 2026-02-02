@@ -31,7 +31,7 @@ HLT
 ### Output:
 <img width="1488" height="772" alt="image" src="https://github.com/user-attachments/assets/54babfeb-cd10-4d07-9929-708f20b6adc9" />
 <img width="288" height="438" alt="image" src="https://github.com/user-attachments/assets/0ec61322-3d48-4feb-bfdb-0d72d05fc293" />
-<img width="288" height="438" alt="image" src="https://github.com/user-attachments/assets/79f202ee-db26-4e41-bd65-77a0493ef293" />
+<img width="273" height="433" alt="image" src="https://github.com/user-attachments/assets/577dcf33-7d2d-4511-823c-ec43407e0545" />
 
 
 
